@@ -1,6 +1,4 @@
-﻿
-
-Console.WriteLine("Please enter your first number >>");
+﻿Console.WriteLine("Please enter your first number >>");
 string answer = Console.ReadLine();
 double val1 = Convert.ToDouble(answer);
 
@@ -21,3 +19,15 @@ const double MAGIC_NUMBER = 7.777;
 double magicTotal = total * MAGIC_NUMBER;
 
 Console.WriteLine($"The magic total is {magicTotal.ToString("N3")}");
+
+double remainder = total % 2;
+if (remainder == 0)
+{
+    Console.WriteLine("Your total is an Even number");
+}
+else
+{
+    Console.WriteLine("Your total is an Odd number");
+}
+
+
