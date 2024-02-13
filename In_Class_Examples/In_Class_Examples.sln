@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables_And_Expressions",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conditionals_Example3", "Conditionals_Example3\Conditionals_Example3.csproj", "{675FB6E1-6CFB-44CE-AB33-584BB4BB20D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops_Example1", "Loops_Example1\Loops_Example1.csproj", "{3D675EAC-4A98-4BA4-8A71-AC107993AD70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops_Example1", "Loops_Example1\Loops_Example1.csproj", "{3D675EAC-4A98-4BA4-8A71-AC107993AD70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops_Example3", "Loops_Example3\Loops_Example3.csproj", "{D68FE4C3-4F2C-42C5-B9CC-0B5432D31F64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops_Example3", "Loops_Example3\Loops_Example3.csproj", "{D68FE4C3-4F2C-42C5-B9CC-0B5432D31F64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulation", "StringManipulation\StringManipulation.csproj", "{393FB6C4-E8D9-4DB4-9A91-24C5AF23BA52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D68FE4C3-4F2C-42C5-B9CC-0B5432D31F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D68FE4C3-4F2C-42C5-B9CC-0B5432D31F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D68FE4C3-4F2C-42C5-B9CC-0B5432D31F64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{393FB6C4-E8D9-4DB4-9A91-24C5AF23BA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393FB6C4-E8D9-4DB4-9A91-24C5AF23BA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393FB6C4-E8D9-4DB4-9A91-24C5AF23BA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393FB6C4-E8D9-4DB4-9A91-24C5AF23BA52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
