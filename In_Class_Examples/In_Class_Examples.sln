@@ -13,11 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops_Example3", "Loops_Exa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringManipulation", "StringManipulation\StringManipulation.csproj", "{393FB6C4-E8D9-4DB4-9A91-24C5AF23BA52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingInAFile", "ReadingInAFile\ReadingInAFile.csproj", "{F4C33789-5130-4CC7-A6F3-185C8A39D628}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadingInAFile", "ReadingInAFile\ReadingInAFile.csproj", "{F4C33789-5130-4CC7-A6F3-185C8A39D628}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections_ParallelArrays", "Collections_ParallelArrays\Collections_ParallelArrays.csproj", "{D4612B23-5BF6-421A-8A0B-6A3661927927}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections_ParallelArrays", "Collections_ParallelArrays\Collections_ParallelArrays.csproj", "{D4612B23-5BF6-421A-8A0B-6A3661927927}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections_Dictionary", "Collections_Dictionary\Collections_Dictionary.csproj", "{8460445A-36F4-44F3-9B56-513AF973A694}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections_Dictionary", "Collections_Dictionary\Collections_Dictionary.csproj", "{8460445A-36F4-44F3-9B56-513AF973A694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections_List", "Collections_List\Collections_List.csproj", "{F11BCC97-A0CF-402F-8BE0-289BFAAD4B5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{8460445A-36F4-44F3-9B56-513AF973A694}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8460445A-36F4-44F3-9B56-513AF973A694}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8460445A-36F4-44F3-9B56-513AF973A694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F11BCC97-A0CF-402F-8BE0-289BFAAD4B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F11BCC97-A0CF-402F-8BE0-289BFAAD4B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F11BCC97-A0CF-402F-8BE0-289BFAAD4B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F11BCC97-A0CF-402F-8BE0-289BFAAD4B5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
