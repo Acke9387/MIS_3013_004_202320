@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AllTypesOfCollections", "Al
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProcessingACsvFile", "ProcessingACsvFile\ProcessingACsvFile.csproj", "{70F7271D-06EE-4994-B790-7F06C7E7C230}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessingACSVFile2", "ProcessingACSVFile2\ProcessingACSVFile2.csproj", "{3B9E860B-B377-487E-ADF4-98CA7385807E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProcessingACSVFile2", "ProcessingACSVFile2\ProcessingACSVFile2.csproj", "{3B9E860B-B377-487E-ADF4-98CA7385807E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions_Calculator", "Functions_Calculator\Functions_Calculator.csproj", "{EF0FACDB-9EF5-4266-94F6-E59AD63F420F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{3B9E860B-B377-487E-ADF4-98CA7385807E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B9E860B-B377-487E-ADF4-98CA7385807E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B9E860B-B377-487E-ADF4-98CA7385807E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF0FACDB-9EF5-4266-94F6-E59AD63F420F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0FACDB-9EF5-4266-94F6-E59AD63F420F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0FACDB-9EF5-4266-94F6-E59AD63F420F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0FACDB-9EF5-4266-94F6-E59AD63F420F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
