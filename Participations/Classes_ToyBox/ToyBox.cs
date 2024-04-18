@@ -10,9 +10,21 @@ namespace Classes_ToyBox
     {
         public List<Toy> Toys { get; set; }
 
+        public string Owner { get; set; }
+        public string Location { get; set; }
+
         public ToyBox()
         {
             Toys = new List<Toy>();
+            Owner = string.Empty;
+            Location = string.Empty;
+        }
+
+        public Toy GetRandomToy()
+        {
+            Random r = new Random();
+            int index = r.Next(0, Toys.Count);
+            return Toys[index];
         }
 
     }
