@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes_Toy", "Classes_Toy\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes_Cereal", "Classes_Cereal\Classes_Cereal.csproj", "{011B1A1E-7AAE-4989-9F9A-31C543A5983B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes_ToyBox", "Classes_ToyBox\Classes_ToyBox.csproj", "{45C8E705-2AC2-4D9A-A496-12C2CD90BFAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes_ToyBox", "Classes_ToyBox\Classes_ToyBox.csproj", "{45C8E705-2AC2-4D9A-A496-12C2CD90BFAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes_Easter_Bunny", "Classes_Easter_Bunny\Classes_Easter_Bunny.csproj", "{733333A7-B650-425C-80E6-640BD8027DDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{45C8E705-2AC2-4D9A-A496-12C2CD90BFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45C8E705-2AC2-4D9A-A496-12C2CD90BFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45C8E705-2AC2-4D9A-A496-12C2CD90BFAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{733333A7-B650-425C-80E6-640BD8027DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{733333A7-B650-425C-80E6-640BD8027DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{733333A7-B650-425C-80E6-640BD8027DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{733333A7-B650-425C-80E6-640BD8027DDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
